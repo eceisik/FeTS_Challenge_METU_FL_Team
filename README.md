@@ -75,7 +75,7 @@ The list of given and implemented functions for Task 1 is listed below.
 }
 ```
 
-**Validation metrics:** We used given validation default metrics but considering limited computational resources, we did not include Hausdorff Distance (include_validation_with_hausdorff = False).
+**Validation metrics:** We used the given default validation metrics but considering limited computational resources, we did not include Hausdorff Distance (include_validation_with_hausdorff = False).
 
 
 
