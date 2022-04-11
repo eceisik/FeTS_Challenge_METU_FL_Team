@@ -45,7 +45,7 @@ The list of given and implemented functions for Task 1 is listed below.
 ### Our challenge combination is as below:
 
 - **Hyperparameter choice function:** *adaptive_epoch_with_lr_scheduling*  
-  adaptive_epoch_with_lr_scheduling is an adaption of AdaComm with a learning scheduling scheme. The number of epoch per round decays according to the decrease in initial loss, and the learning rate decays according to the performance metric (average DICE score).
+  adaptive_epoch_with_lr_scheduling is an adaption of AdaComm with a learning scheduling scheme. The number of epochs per round decays according to the decrease in initial loss, and the learning rate decays according to the performance metric (average DICE score).
 
 ```BibText
 @inproceedings{MLSYS2019_c8ffe9a5,
@@ -61,7 +61,7 @@ The list of given and implemented functions for Task 1 is listed below.
 ```
 
 - **Collaborator choice function:** *all_collaborators_train*    
-    All collaborators participate to the each FL round.  
+    All collaborators participate in each FL round.  
     
 - **Aggregation function:** *fedAvgM*     
     Federated Averaging with server momentum uses accumulated gradients for the weight update.
