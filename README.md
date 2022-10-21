@@ -1,6 +1,8 @@
 # Federated Tumor Segmentation Challenge 2021 - METU-FL Team Challenge Repository
 
-This repository contains METU-FL team implementations for the Federated Tumor Segmentation Challenge 2021.   
+This repository contains METU-FL team implementations for the Federated Tumor Segmentation Challenge 2021. 
+
+You can reach our related work here: https://link.springer.com/chapter/10.1007/978-3-031-09002-8_36
 
 The list of given and implemented functions for Task 1 is listed below.    
 
